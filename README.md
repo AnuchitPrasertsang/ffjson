@@ -228,3 +228,5 @@ Please [open issues in Github](https://github.com/pquerna/ffjson/issues) for ide
 
 `ffjson` is licensed under the [Apache License, Version 2.0](./LICENSE)
 
+
+* https://journal.paul.querna.org/articles/2014/03/31/ffjson-faster-json-in-go/
